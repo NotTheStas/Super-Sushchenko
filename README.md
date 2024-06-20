@@ -14,14 +14,18 @@
  Для запуска программы нужно открыть файл Main.py
 
 
-Окно авторизации:
+## Окно авторизации:
+
 ![alt text](https://github.com/NotTheStas/Super-Sushchenko/blob/main/images/login_window.png)
 
-Окно студента:
+## Окно студента:
+
 ![alt text](https://github.com/NotTheStas/Super-Sushchenko/blob/main/images/student_window.png)
 
-Окно учителя:
+## Окно учителя:
+
 ![alt text](https://github.com/NotTheStas/Super-Sushchenko/blob/main/images/teacher_window.png)
 
-Окно админа:
+## Окно админа:
+
 ![alt text](https://github.com/NotTheStas/Super-Sushchenko/blob/main/images/admin_window.png)
