@@ -12,3 +12,6 @@
  Админ может редактировать, добавлять и изменять общую базу данных. 
  
  Для запуска программы нужно открыть файл Main.py
+
+
+ ![alt text](https://github.com/NotTheStas/Super-Sushchenko/blob/main/images/admin_window.png)
